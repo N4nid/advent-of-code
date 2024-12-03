@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>
+#include <stdlib.h>
 
 void printArr(int len,int arr[len]){
   for(int i = 0; i < len; i++) {
